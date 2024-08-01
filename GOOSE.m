@@ -105,3 +105,5 @@ while loop<Max_IT
     loop=loop+1;
     Cong_Curve(loop)=Best_score;
 end
+  
+    
